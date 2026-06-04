@@ -8,7 +8,6 @@ A personal finance web application that uses machine learning to automatically c
 
 
 
-> Built as an academic project for B.Tech CSE – AI & ML Specialisation at SRM Institute of Science and Technology, KTR
 
 ## 🎯 Features
 
