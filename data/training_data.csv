@@ -1,0 +1,271 @@
+description,category
+Swiggy order chicken biryani,Food
+Zomato pizza delivery,Food
+Restaurant dinner with friends,Food
+Breakfast at cafe,Food
+Lunch at office canteen,Food
+Dominos pizza order,Food
+McDonald's burger meal,Food
+Starbucks coffee,Food
+Grocery shopping vegetables,Food
+Milk and bread purchase,Food
+Street food chaat,Food
+Biryani takeaway,Food
+Chinese food delivery,Food
+South Indian breakfast,Food
+Ice cream parlor,Food
+Uber ride to airport,Transport
+Ola cab to office,Transport
+Metro card recharge,Transport
+Bus ticket booking,Transport
+Petrol for bike,Transport
+Auto rickshaw fare,Transport
+Train ticket reservation,Transport
+Rapido bike ride,Transport
+Parking charges,Transport
+Toll tax payment,Transport
+Car maintenance service,Transport
+Bike insurance premium,Transport
+Flight ticket booking,Transport
+Taxi to railway station,Transport
+Fuel refill car,Transport
+Amazon laptop stand purchase,Shopping
+Flipkart shoes order,Shopping
+Online shopping clothes,Shopping
+Mobile phone accessories,Shopping
+Electronics gadget purchase,Shopping
+Book order online,Shopping
+Furniture shopping,Shopping
+Kitchen utensils,Shopping
+Clothing store purchase,Shopping
+Myntra fashion order,Shopping
+Headphones purchase,Shopping
+Watch online order,Shopping
+Bag purchase,Shopping
+Sunglasses shopping,Shopping
+Home decor items,Shopping
+Electricity bill payment,Utilities
+Water bill,Utilities
+Internet broadband bill,Utilities
+Mobile recharge,Utilities
+DTH TV recharge,Utilities
+Gas cylinder refill,Utilities
+Maintenance charges,Utilities
+Property tax payment,Utilities
+Wifi router rental,Utilities
+Landline phone bill,Utilities
+Electricity meter reading,Utilities
+Water tanker charges,Utilities
+Sewage charges,Utilities
+Society maintenance,Utilities
+Garbage collection fee,Utilities
+Apollo pharmacy medicine,Health
+Doctor consultation fee,Health
+Medical lab tests,Health
+Hospital admission charges,Health
+Dental checkup,Health
+Eye checkup optician,Health
+Physiotherapy session,Health
+Gym membership fee,Health
+Yoga class subscription,Health
+Health insurance premium,Health
+Vitamins and supplements,Health
+Medical prescription drugs,Health
+X-ray scan charges,Health
+Blood test pathology,Health
+Vaccination charges,Health
+Netflix subscription,Entertainment
+Amazon Prime membership,Entertainment
+Movie tickets PVR,Entertainment
+Concert tickets,Entertainment
+Spotify premium,Entertainment
+Gaming subscription,Entertainment
+Theme park entry,Entertainment
+Museum visit,Entertainment
+Sports event tickets,Entertainment
+Theatre play tickets,Entertainment
+YouTube premium,Entertainment
+Disney Hotstar subscription,Entertainment
+Video game purchase,Entertainment
+Photography equipment,Entertainment
+Musical instrument,Entertainment
+Udemy course Python programming,Education
+Coursera certification,Education
+Book purchase technical,Education
+Online tutorial subscription,Education
+College tuition fees,Education
+Exam registration fee,Education
+Study material purchase,Education
+Library membership,Education
+Workshop registration,Education
+Seminar attendance fee,Education
+Research paper access,Education
+Educational software license,Education
+Language learning app,Education
+Professional certification,Education
+Training program fee,Education
+Coffee with colleagues,Food
+Team lunch office,Food
+Birthday cake order,Food
+Party snacks purchase,Food
+Festival sweets,Food
+Wedding gift shopping,Shopping
+Birthday gift purchase,Shopping
+Anniversary gift,Shopping
+Valentine day gift,Shopping
+Rakhi shopping,Shopping
+Diwali decorations,Shopping
+Christmas shopping,Shopping
+New year party supplies,Shopping
+Housewarming gift,Shopping
+Baby shower gift,Shopping
+Haircut salon,Other
+Beauty parlor visit,Other
+Spa treatment,Other
+Laundry service,Other
+Dry cleaning,Other
+Pet food purchase,Other
+Veterinary consultation,Other
+Plant nursery shopping,Other
+Gardening supplies,Other
+Charity donation,Other
+Temple offering,Other
+Church donation,Other
+NGO contribution,Other
+Crowdfunding support,Other
+Social cause donation,Other
+Breakfast paratha,Food
+Lunch thali meal,Food
+Dinner buffet,Food
+Snacks samosa,Food
+Tea and biscuits,Food
+Juice shop,Food
+Smoothie bowl,Food
+Salad bowl healthy,Food
+Sandwich subway,Food
+Burger king meal,Food
+KFC chicken bucket,Food
+Pizza hut order,Food
+Cafe coffee day,Food
+Barista coffee,Food
+Bakery pastries,Food
+Swiggy Instamart groceries,Food
+BigBasket order,Food
+Blinkit quick delivery,Food
+Dunzo delivery,Food
+Fresh fruits purchase,Food
+Vegetables from market,Food
+Chicken meat shop,Food
+Fish market purchase,Food
+Paneer and dairy,Food
+Eggs and bread,Food
+Cooking oil purchase,Food
+Spices and masala,Food
+Rice and wheat flour,Food
+Pulses and lentils,Food
+Snacks and namkeen,Food
+Uber auto ride,Transport
+Ola bike ride,Transport
+Rapido auto,Transport
+Namma Yatri ride,Transport
+Local bus pass,Transport
+Metro smart card,Transport
+Railway season ticket,Transport
+Bike service center,Transport
+Car washing,Transport
+Vehicle pollution check,Transport
+Two wheeler insurance,Transport
+Car insurance renewal,Transport
+Fastag recharge,Transport
+Parking monthly pass,Transport
+Bike accessories,Transport
+Flipkart electronics,Shopping
+Amazon fashion,Shopping
+Myntra clothing,Shopping
+Ajio fashion order,Shopping
+Nykaa cosmetics,Shopping
+FirstCry baby products,Shopping
+Decathlon sports gear,Shopping
+IKEA furniture,Shopping
+Pepperfry home decor,Shopping
+Urban Ladder furniture,Shopping
+Lenskart eyewear,Shopping
+Titan watch purchase,Shopping
+Tanishq jewelry,Shopping
+Lifestyle store shopping,Shopping
+Westside clothing,Shopping
+BSNL broadband bill,Utilities
+Airtel fiber internet,Utilities
+Jio fiber connection,Utilities
+Vodafone mobile bill,Utilities
+Airtel prepaid recharge,Utilities
+Jio recharge,Utilities
+Tata Sky recharge,Utilities
+Dish TV subscription,Utilities
+Indane gas booking,Utilities
+HP gas cylinder,Utilities
+Bharat gas refill,Utilities
+RO water purifier service,Utilities
+AC servicing charges,Utilities
+Plumber charges,Utilities
+Electrician service,Utilities
+Fortis hospital,Health
+Max healthcare,Health
+Manipal hospital bill,Health
+AIIMS consultation,Health
+Government hospital,Health
+Private clinic visit,Health
+Diagnostic center,Health
+Pharmacy medicine,Health
+Health checkup package,Health
+Dental clinic,Health
+Eye hospital,Health
+Skin specialist,Health
+Orthopedic consultation,Health
+Cardiologist visit,Health
+Pediatrician checkup,Health
+Hotstar VIP subscription,Entertainment
+Sony Liv premium,Entertainment
+Zee5 subscription,Entertainment
+Voot premium,Entertainment
+Apple TV subscription,Entertainment
+Book my show tickets,Entertainment
+INOX movie tickets,Entertainment
+Carnival cinema,Entertainment
+Amusement park,Entertainment
+Water park entry,Entertainment
+Zoo visit,Entertainment
+Aquarium tickets,Entertainment
+Art gallery visit,Entertainment
+Cultural event,Entertainment
+Music concert,Entertainment
+Byju learning app,Education
+Unacademy subscription,Education
+Vedantu classes,Education
+Khan Academy donation,Education
+Skill development course,Education
+LinkedIn learning,Education
+Pluralsight subscription,Education
+DataCamp subscription,Education
+Codecademy pro,Education
+Treehouse membership,Education
+FreeCodeCamp donation,Education
+MIT OpenCourseWare,Education
+Stanford online course,Education
+Harvard online program,Education
+IIT online course,Education
+Newspaper subscription,Other
+Magazine subscription,Other
+Postage stamps,Other
+Courier charges,Other
+Legal consultation,Other
+CA consultation fee,Other
+Lawyer fees,Other
+Notary charges,Other
+Passport fees,Other
+Visa application,Other
+Driving license renewal,Other
+Aadhaar card update,Other
+PAN card application,Other
+Voter ID charges,Other
+Birth certificate,Other
