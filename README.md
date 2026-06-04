@@ -161,25 +161,5 @@ Use the Settings page to update your monthly budget.
 - **Database**: SQLite (file-based, no server needed)
 - **Disk Usage**: <100MB total
 
-## 🎓 Academic Project
-
-**Institution**: SRM Institute of Science and Technology, KTR  
-**Program**: B.Tech CSE – AI & ML Specialisation  
-**Version**: 1.0  
-**Date**: May 2026
-
-## 📝 License
-
-This is an academic project for educational purposes.
-
-## 🤝 Contributing
-
-This is a student project. For suggestions or improvements, please contact the project owner.
-
-## 📧 Support
-
-For issues or questions, please refer to the project documentation or contact your academic supervisor.
-
----
 
 **Built with ❤️ using Streamlit, Scikit-learn, and Python**
