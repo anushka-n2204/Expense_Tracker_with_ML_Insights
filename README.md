@@ -1,6 +1,14 @@
-# Smart Expense Tracker with ML Insights
+# 💰 Smart Expense Tracker with ML Insights
+
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/streamlit-1.32.0-FF4B4B.svg)](https://streamlit.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A personal finance web application that uses machine learning to automatically categorize expenses, detect spending anomalies, and provide intelligent insights.
+
+![Dashboard Preview](https://via.placeholder.com/800x400/FF4B4B/FFFFFF?text=Dashboard+Preview)
+
+> Built as an academic project for B.Tech CSE – AI & ML Specialisation at SRM Institute of Science and Technology, KTR
 
 ## 🎯 Features
 
@@ -20,9 +28,18 @@ A personal finance web application that uses machine learning to automatically c
 
 ## 🚀 Installation
 
-1. **Clone or download this repository**
+### Option 1: Clone from GitHub
 
-2. **Install dependencies**:
+```bash
+git clone https://github.com/anushka-n2204/smart-expense-tracker.git
+cd smart-expense-tracker
+```
+
+### Option 2: Download ZIP
+
+Download the repository as ZIP and extract it.
+
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
