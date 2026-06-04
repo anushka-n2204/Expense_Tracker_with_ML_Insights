@@ -6,7 +6,7 @@
 
 A personal finance web application that uses machine learning to automatically categorize expenses, detect spending anomalies, and provide intelligent insights.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/FF4B4B/FFFFFF?text=Dashboard+Preview)
+
 
 > Built as an academic project for B.Tech CSE – AI & ML Specialisation at SRM Institute of Science and Technology, KTR
 
