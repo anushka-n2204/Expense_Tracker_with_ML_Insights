@@ -1,8 +1,5 @@
 # 💰 Smart Expense Tracker with ML Insights
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.32.0-FF4B4B.svg)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A personal finance web application that uses machine learning to automatically categorize expenses, detect spending anomalies, and provide intelligent insights.
 
