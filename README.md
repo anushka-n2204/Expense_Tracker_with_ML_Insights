@@ -14,7 +14,7 @@ A personal finance web application that uses machine learning to automatically c
 - **Visual Dashboards**: Interactive charts showing spending trends and patterns
 - **Budget Management**: Set monthly budgets with alerts at 80% and 100% thresholds
 - **Data Export**: Export expenses to CSV format
-- **Lightweight**: Runs on low-resource hardware (i3, 4GB RAM)
+
 
 ## 📋 Requirements
 
