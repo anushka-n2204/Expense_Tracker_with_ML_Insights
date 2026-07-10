@@ -153,7 +153,7 @@ Use the Settings page to update your monthly budget.
 
 ## 📈 Performance
 
-- **App Load Time**: <3 seconds on i3/4GB RAM
+- **App Load Time**: <3 seconds
 - **ML Prediction**: <500ms per prediction
 - **Database**: SQLite (file-based, no server needed)
 - **Disk Usage**: <100MB total
